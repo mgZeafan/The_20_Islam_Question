@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708712004564",
+    "firebase_url": "https://islamquestion2017.firebaseio.com",
+    "project_id": "islamquestion2017",
+    "storage_bucket": "islamquestion2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708712004564:android:39b3c64af98fca34",
+        "android_client_info": {
+          "package_name": "com.app.mohamedgomaa.the_20_islam_question"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708712004564-5iatj4uo7p09tk9ikb1g8lhhtqh32ec0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mohamedgomaa.the_20_islam_question",
+            "certificate_hash": "e5ef75001cb61d42294aacccfe05e25597206d59"
+          }
+        },
+        {
+          "client_id": "708712004564-838v2n84qe76l98k4ldo1btpu8qtbu0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnGTzKcuGSlmWyne4Oq-feJ1NoHZrPXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708712004564-838v2n84qe76l98k4ldo1btpu8qtbu0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

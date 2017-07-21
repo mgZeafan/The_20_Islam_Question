@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="athor_name">dr/Zakir Naik</string>
+    <string name="description_author"> Zakir Naik wurde 1965 in Mumbai, Indien, geboren. Er ist Präsident
+        der Islamischen Forschungsstiftung und Vorsitzender des IRF-Bildungsvertrauens
+        in Mumbai. Er absolvierte die Universität von Mumbai, wo er Grade in Medizin
+        und Chirurgie erhielt. Er interessiert sich für Islam und vergleichende Religion,
+        Medizin und soziale und wirtschaftliche Wohlfahrtskampagnen. Er ist ein international
+        bekannter Da\'iyah (Anrufer an Allah, Gott der Schöpfer) und ist nach Kanada,
+        den Vereinigten Staaten, Australien, Neuseeland, Malaysia, Singapur, mehreren
+        Golfstaaten und anderen Ländern auf der ganzen Welt gereist. Er hat mehrere Bücher über
+        den Islam, die Wissenschaft und die vergleichende Religion geschrieben und ist dabei,
+        viele andere Bücher für Nichtmuslime zu schreiben, die sich für den Islam interessieren. </string>
+    <!-- menu items-->
+    <string name="exist">Wollen Sie aus der Anwendung zu bekommen?</string>
+    <string name="exis">Ausfahrt</string>
+
+
+
+    <string name="lang">Sprache</string>
+    <string name="share">teilen</string>
+    <string name="like">App Bewertung</string>
+    <string name="facebook">faceBook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">über Thema </string>
+    <string name="send">Vorschlag senden </string>
+    <!-- language-->
+
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الفرنسية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+
+    <!-- -->
+    <string name="app_name">Häufige Fragen zum Islam</string>
+    <string name="title0">EINLEITUNG</string>
+    <string name="title1">Polygamie</string>
+    <string name="title2">POLYANDRIE</string>
+    <string name="title3">HIJAB FÜR FRAUEN</string>
+    <string name="title4">WURDE der Islam MIT dem Schwert  verbreitet</string>
+    <string name="title5">Muslime sind Fundamentalisten und Terroristen</string>
+    <string name="title6">Das essen nicht-vegetarisches Essen</string>
+    <string name="title7">islamischen METHODE DER TÖTUNG DER TIERE WIRD RÜCKSICHTSLOS</string>
+    <string name="title8">nicht-vegetarisches Essen macht Muslime gewalttätige</string>
+    <string name="title9">Muslime verehren die Kaaba</string>
+    <string name="title10">nicht-Muslimen NICHT ERLAUBT IN MEKKA</string>
+    <string name="title11">SCHWEINEFLEISCH VERBOTEN</string>
+    <string name="title12">VERBOT VON ALKOHOL</string>
+    <string name="title13">GLEICHSTELLUNG VON ZEUGEN</string>
+    <string name="title14">ERBE</string>
+    <string name="title15"> DER KORAN IST DAS WORT GOTTES?</string>
+    <string name="title16">Jenseits - DAS LEBEN NACH DEM TOD</string>
+    <string name="title17">WARUM sind Muslime, aufgeteilt in Sekten/verschiedenen Schulen des Denkens?</string>
+    <string name="title18">Alle Religionen lehren die Menschen rechtschaffen zu sein, warum DANN NUR FOLGEN DER ISLAM?</string>
+    <string name="title19">Großer UNTERSCHIED ZWISCHEN the iSLAM UND TATSÄCHLICHEN PRAXIS DER MUSLIME</string>
+    <string name="title20">NICHT-MUSLIME KAFIRS</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Warum ist ein Mann erlaubt, mehr als eine Frau im Islam zu haben? D. h. Warum ist die Polygamie im Islam erlaubt?</string>
+    <string name="question2">Wenn ein Mann darf mehr als eine Frau zu haben, dann, warum sich der Islam eine Frau aus mit mehr als einem Mann verbieten?</string>
+    <string name="question3">Warum hat der Islam die Frauen, indem sie sie hinter dem Schleier?</string>
+    <string name="question4">Wie kann der Islam die Religion des Friedens aufgerufen werden, wenn es durch das Schwert verbreitet wurde?</string>
+    <string name="question5">Warum sind die meisten Muslime Fundamentalisten und Terroristen?</string>
+    <string name="question6">Töten eines Tieres ist eine rücksichtslose handeln. Warum Muslime nonvegetarian Lebensmittel verbrauchen?</string>
+    <string name="question7">Warum Muslime die Schlachtung der Tiere in einem rücksichtslosen Weise quälen und langsam und qualvoll töten?</string>
+    <string name="question8">Die Wissenschaft sagt uns, dass alles, was man isst, hat es eine Auswirkung auf das Verhalten. Warum dann, hat der Islam
+	die Muslime nicht-vegetarisches Essen zu essen, da das Essen von Tieren konnte ein Mensch gewalttätig und grausam?</string>
+    <string name="question9">Wenn der Islam ist gegen Götzenanbetung warum die Muslime verehren und Anbeten die Kaaba im Gebet?</string>
+    <string name="question10">Warum sind nicht-Muslime nicht in die heiligen Städte Mekka und Medina erlaubt?</string>
+    <string name="question11">Warum ist das Essen von Schweinefleisch im Islam verboten?</string>
+    <string name="question12">Warum ist der Konsum von Alkohol im Islam verboten?</string>
+    <string name="question13">Warum sind zwei Zeugen, die Frauen sind, entspricht nur ein Zeuge, der ein Mann ist?</string>
+    <string name="question14">Im islamischen Recht, warum ist eine Frau, der das geerbte Vermögen nur die Hälfte eines Mannes?</string>
+    <string name="question15">Wie können Sie beweisen, dass der Koran ist das Wort Gottes?</string>
+    <string name="question16">Wie kann man die Existenz des Jenseits beweisen, d. h., das Leben nach dem Tod?</string>
+    <string name="question17">Wenn alle muslimischen folgen ein und demselben Koran dann warum gibt es so viele Sekten und verschiedenen Schulen der Gedanken unter den Muslimen?</string>
+    <string name="question18">Alle Religionen im Grunde lehren Anhänger gute Taten zu tun. Warum sollte eine Person nur dem Islam Folgen? Er kann jede der Religionen nicht folgen?</string>
+    <string name="question19">Wenn der Islam ist die beste Religion, warum sind viele der Muslime unehrlich, Unzuverlässig, eine in Aktivitäten wie Betrug, Bestechung, Umgang mit Drogen, etc.?</string>
+    <string name="question20">Warum Muslime Missbrauch nicht-Muslime die Kafirs?</string>
+</resources>

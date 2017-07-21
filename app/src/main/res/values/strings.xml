@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="athor_name">dr/Zakir Naik</string>
+    <string name="description_author">Zakir Naik was born in Mumbai, India, in 1965. He is President
+        of the Islamic Research Foundation and Chairman of the IRF Educational Trust in Mumbai. He
+        graduated from the University of Mumbai, where he obtained degrees in medicine and surgery.
+        He is interested in Islam and comparative religion, medicine, and social and economic welfare
+        campaigns. He is an internationally renowned da‘iyah (caller to Allah, God the Creator) and
+        has travelled to Canada, the United States, Australia, New Zealand, Malaysia, Singapore,
+        several gulf states, and other countries around the world. He has written several books on
+        Islam, science, and comparative religion, and is in the process of authoring many other
+        books for non-Muslims who are interested in Islam.</string>
+
+<string name="exist">Do you want to exit the app?</string>
+    <string name="exis">Exit</string>
+
+
+
+    <!-- menu items-->
+    <string name="lang">Language</string>
+    <string name="share">share</string>
+    <string name="like">App evaluation</string>
+    <string name="facebook">faceBook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">about Author </string>
+    <string name="send">Send Suggestion </string>
+    <!-- language-->
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الألمانية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+    <!-- -->
+    <string name="app_name">Common Questions about Islam</string>
+    <string name="title0">INTRODUCTION</string>
+    <string name="title1">POLYGAMY</string>
+    <string name="title2">POLYANDRY</string>
+    <string name="title3">HIJAB FOR WOMEN</string>
+    <string name="title4">WAS ISLAM SPREAD BY THE SWORD</string>
+    <string name="title5">MUSLIMS ARE FUNDAMENTALISTS AND TERRORISTS</string>
+    <string name="title6">EATING NON-VEGETARIAN FOOD</string>
+    <string name="title7">ISLAMIC METHOD OF SLAUGHTERING ANIMALS APPEARS RUTHLESS</string>
+    <string name="title8">NON-VEGETARIAN FOOD MAKES MUSLIMS VIOLENT</string>
+    <string name="title9">MUSLIMS WORSHIP THE KAABA</string>
+    <string name="title10">NON-MUSLIMS NOT ALLOWED IN MAKKAH</string>
+    <string name="title11">PORK FORBIDDEN</string>
+    <string name="title12">PROHIBITION OF ALCOHOL</string>
+    <string name="title13">EQUALITY OF WITNESSES</string>
+    <string name="title14">INHERITANCE</string>
+    <string name="title15">IS THE QUR\'AN GOD\'S WORD?</string>
+    <string name="title16">HEREAFTER - LIFE AFTER DEATH</string>
+    <string name="title17">WHY ARE MUSLIMS DIVIDED INTO SECTS/DIFFERENT SCHOOLS OF THOUGHT?</string>
+    <string name="title18">ALL RELIGIONS TEACH PEOPLE TO BE RIGHTEOUS, THEN WHY FOLLOW ONLY ISLAM?</string>
+    <string name="title19">VAST DIFFERENCE BETWEEN ISLAM AND THE ACTUAL PRACTICE OF MUSLIMS</string>
+    <string name="title20">NON-MUSLIMS REFERRED AS KAFIRS</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Why is a man allowed to have more than one wife in Islam? i.e. why is polygamy allowed in Islam?</string>
+    <string name="question2">If a man is allowed to have more than one wife, then why does Islam prohibit a woman from having more than one husband?</string>
+    <string name="question3">Why does Islam degrade women by keeping them behind the veil?</string>
+    <string name="question4">How can Islam be called the religion of peace when it was spread by the sword?</string>
+    <string name="question5">Why are most of the Muslims fundamentalists and terrorists?</string>
+    <string name="question6">Killing an animal is a ruthless act. Why then do Muslims consume nonvegetarian food?</string>
+    <string name="question7">Why do Muslims slaughter the animal in a ruthless manner by torturing it and slowly and painfully killing it?</string>
+    <string name="question8">Science tell us that whatever one eats, it has an effect on one\'s behaviour. Why then, does Islam allow Muslims to eat non-vegetarian food, since eating of animals could make a person violent and ferocious?</string>
+    <string name="question9">When Islam is against idol worship why do the Muslims worship, and bow down to the Kaaba in their prayer?</string>
+    <string name="question10">Why are non-Muslims not allowed in the Holy cities of Makkah and Madinah?</string>
+    <string name="question11">Why is the eating of pork forbidden in Islam?</string>
+    <string name="question12">Why is the consumption of alcohol prohibited in Islam?</string>
+    <string name="question13">Why are two witnesses who are women, equivalent to only one witness who is a man ?</string>
+    <string name="question14">Under Islamic law, why is a woman\'s share of the inherited wealth only half that of a man?</string>
+    <string name="question15">How can you prove that the Qur\'an is the word of God?</string>
+    <string name="question16">How can you prove the existence of hereafter, i.e. life after death?</string>
+    <string name="question17">When all the Muslim follow one and the same Qur\'an then why are there so many sects and different schools of thoughts among Muslims?</string>
+    <string name="question18">All religions basically teach followers to do good deeds. Why should a person only follow Islam? Can he not follow any of the religions?</string>
+    <string name="question19">If Islam is the best religion, why are many of the Muslims dishonest, unreliable, an involved in activities such as cheating, bribing, dealing in drugs, etc.?</string>
+    <string name="question20">Why do Muslims abuse non-Muslims by calling them Kafirs?</string>
+</resources>

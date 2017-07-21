@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5sp"
+    android:layout_margin="5sp"
+
+  >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/LinearL"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="5sp"
+            android:background="@drawable/item_draw"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:padding="1sp"
+            android:text="mohamed"
+            android:textColor="@color/color2"
+            android:textSize="@dimen/text_title" />
+                <TextView
+                    android:id="@+id/num"
+                    android:textColor="@color/color2"
+                    android:gravity="center"
+                    android:textSize="@dimen/text_cycle"
+                    android:layout_marginRight="15sp"
+                    android:background="@drawable/cycle_num"
+                    android:layout_width="100sp"
+                    android:layout_height="100sp"
+                    android:layout_marginTop="2sp"
+                    android:layout_gravity="center"
+
+                    />
+            </LinearLayout>
+                <TextView
+            android:id="@+id/question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/title_draw1"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:padding="15sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/text_question" />
+        </LinearLayout>
+</LinearLayout>

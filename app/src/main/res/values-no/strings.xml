@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- menu items-->
+    <string name="athor_name">DR / Zakir Naik</string>
+    <string name="description_author">DR / Zakir Naik ble født i Mumbai, India, i 1965. Han er
+        president for den islamske forskningsstiftelsen og leder av IRF Educational Trust i Mumbai.
+        Han ble uteksaminert fra University of Mumbai, hvor han fikk grader i medisin og kirurgi.
+        Han er interessert i islam og komparativ religion, medisin og sosiale og økonomiske
+        velferdskampanjer. Han er en internasjonalt anerkjent da\'iyah (ringer til Allah, Gud Skaperen)
+        og har reist til Canada, USA, Australia, New Zealand, Malaysia, Singapore, flere golfstater
+        og andre land rundt om i verden. Han har skrevet flere bøker om islam, vitenskap og komparativ religion
+        , og er i ferd med å forberede mange andre bøker for ikke-muslimer som er interessert i islam.</string>
+
+    <string name="exist">Vil du komme ut av programmet?</string>
+    <string name="exis">Utgang</string>
+
+    <string name="lang">Velg språk</string>
+    <string name="share">dele</string>
+    <string name="like">Appevaluering</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">Om forfatteren</string>
+    <string name="send">Send forslag</string>
+
+    <!-- language-->
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الألمانية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+    <!-- -->
+    <string name="app_name">De mest spurte spørsmål om Islam</string>
+    <string name="title0">Innledning</string>
+    <string name="title1">Polygami</string>
+    <string name="title2">Polygami for kvinner</string>
+    <string name="title3">Hijaab</string>
+    <string name="title4">Islam betyr fred</string>
+    <string name="title5">Fundamentalister og terrorister</string>
+    <string name="title6">Islam og mat</string>
+    <string name="title7">Halal slakt av dyr</string>
+    <string name="title8"></string>
+    <string name="title9">Muslimer tilber Kaaba</string>
+    <string name="title10">Ikke-muslimer har ikke adgang til de hellige byene Makkah og Madinah</string>
+    <string name="title11">Svinekjøtt forbudt</string>
+    <string name="title12">Forbud mot alkohol</string>
+    <string name="title13">Likhet av vitner</string>
+    <string name="title14">Arv</string>
+    <string name="title15">Er Koranen Guds ord؟</string>
+    <string name="title16">Det hinsidige - livet etter døden</string>
+    <string name="title17">Hvorfor er muslimer delt inn i sekter / ulike retninger?</string>
+    <string name="title18">Alle religioner lærer mennesker å være rettferdige hvorfor følge Islam da?</string>
+    <string name="title19">Stor forskjell mellom islam og den faktiske praktiseringen</string>
+    <string name="title20">Ikke-muslimer omtales som ‘kafirs’</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Hvorfor er en mann tillatt å ha mer enn en kone i Islam, dvs. hvorfor er polygami tillatt i Islam?</string>
+    <string name="question2">Om en mann tillates å ha mer enn en kone, hvorfor forbyr Islam da en kvinne fra å ha mer enn en
+mann?</string>
+    <string name="question3">Hvorfor degraderer Islam kvinner ved å holde dem bak sløret?</string>
+    <string name="question4">Islam kommer fra ordet ‘salaam’, som betyr fred. Det betyr også å underkaste ens vilje til Allah
+(swt). Dermed er Islam fredens religion, som oppnås ved å underkaste ens vilje til viljen til
+Skaperen, Allah (swt).</string>
+    <string name="question5">Hvorfor er mesteparten av Muslimer fundamentalister og terrorister?</string>
+    <string name="question6">Å drepe et dyr er en hensynsløs handling. Hvorfor spiser da muslimer kjøtt?</string>
+    <string name="question7">Hvorfor slakter muslimer dyret på en inhuman måte ved å torturere det, og drepe det sakte og med
+    stor lidelse?</string>
+    <string name="question8"></string>
+    <string name="question9">Når Islam er imot idoldyrking hvorfor tilber muslimer og bøyer seg ned for Kaaba i sine bønner?</string>
+    <string name="question10">Hvorfor har ikke ikke-muslimer adgang til de hellige byene Makkah og Madinah?</string>
+    <string name="question11">Hvorfor er det ikke tillatt å spise svinekjøtt i Islam?</string>
+    <string name="question12">Hvorfor er inntak av alkohol forbudt i Islam?</string>
+    <string name="question13">Hvorfor er to vitner som er kvinner, likestilt med et mannlig vitne?</string>
+    <string name="question14">Under Islamsk lovgivning, hvorfor er kvinnens andel bare halvparten av mannens?</string>
+    <string name="question15">Er Koranen Guds ord؟</string>
+    <string name="question16">Hvordan kan du beviste eksistensen til etterlivet dvs. livet etter døden?</string>
+    <string name="question17">Når alle Muslimer følger en og samme Koranen hvorfor er det da så mangesekter og ulike retninger
+blant Muslimer?</string>
+    <string name="question18">Alle religioner lærer I bunn og grunn sine følgere om å gjøre gode gjerninger. Hvorfor burde en
+person følge Islam? Kan han ikke følge hvilken som helst av religionene?</string>
+    <string name="question19">Dersom Islam er den beste religionen, hvor er mange Muslimer er uærlige, upålitelige, og involvert
+i svindel, bestikkelser, handel av rusmidler. osv?</string>
+    <string name="question20">Hvorfor krenker Muslimer ikke-muslimer ved å kalle dem ‘Kafirs’?</string>
+</resources>

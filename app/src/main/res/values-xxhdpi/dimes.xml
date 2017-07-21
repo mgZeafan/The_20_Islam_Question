@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_cycle">32sp</dimen>
+    <dimen name="text_title">21sp</dimen>
+    <dimen name="text_title2">18sp</dimen>
+    <dimen name="text_question">20sp</dimen>
+    <dimen name="menu_Size">70sp</dimen>
+    <dimen name="author_des">18sp</dimen>
+</resources>

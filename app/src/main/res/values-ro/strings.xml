@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- menu items-->
+    <string name="athor_name">DR / Zakir Naik </string>
+    <string name="description_author">DR / Zakir Naik sa născut în 1965 la Mumbai, India. Este președintele
+        Fundației pentru Cercetare Islamică și președinte al Trustului Educațional IRF din Mumbai.
+        A absolvit Universitatea din Mumbai, unde a obținut diplome de medicină și chirurgie. El este
+        interesat de Islam și de religia comparativă, de medicină și campaniile de bunăstare socială
+        și economică. El este un da\'iyah renumit pe plan internațional (care îl cheamă pe Allah,
+        Dumnezeu Creatorul) și a călătorit în Canada, Statele Unite, Australia, Noua Zeelandă,
+        Malaezia, Singapore, mai multe state din Golf și alte țări din întreaga lume. El a scris mai
+        multe cărți despre islam, știință și religie comparativă și este în curs de a crea multe alte
+        cărți pentru non-musulmani care sunt interesați de Islam.</string>
+
+    <string name="exist">Vrei să ieși din aplicația?</string>
+    <string name="exis">ieşire</string>
+
+    <string name="lang">Selecteaza limba</string>
+    <string name="share">acțiune</string>
+    <string name="like">Evaluarea aplicațiilor</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">Despre autor</string>
+    <string name="send">Trimiteți sugestii</string>
+    <!-- language-->
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الألمانية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+    <!-- -->
+    <string name="app_name">Răspunsuri la întrebările frecvente despre islam</string>
+    <string name="title0">Introducere</string>
+    <string name="title1">Poligamia</string>
+    <string name="title2">Poliandria</string>
+    <string name="title3">Hijabul pentru femei</string>
+    <string name="title4">Islamul a fost răspândit prin sabie?</string>
+    <string name="title5">Musulmanii sunt fundamentalişti şi terorişti</string>
+    <string name="title6">Dieta nevegetariană</string>
+    <string name="title7">Metoda islamică de sacrificare a animalelor pare a fi nemiloasă</string>
+    <string name="title8">Dieta nevegetariană îi face pe musulmani violenţi</string>
+    <string name="title9">Musulmanii realizează acte de adorare adresate sanctuarului Ka‘bah</string>
+    <string name="title10">Nemusulmanilor nu le este permisă
+intrarea în Mecca</string>
+    <string name="title11">Carnea de porc este interzisă</string>
+    <string name="title12">Interdicţia alcoolului</string>
+    <string name="title13">Egalitatea martorilor</string>
+    <string name="title14">Moştenirea</string>
+    <string name="title15"> Coranul cuvântul lui Dumnezeu</string>
+    <string name="title16">Viaţa de Apoi – Viaţa de după moarte</string>
+    <string name="title17">De ce musulmanii se împart în diferite secte şi şcoli de jurisprudenţă?</string>
+    <string name="title18">Toate religiile îi învaţă pe oameni să fie virtuoşi, atunci de ce să urmeze doar islamul?</string>
+    <string name="title19">Marea diferenţă dintre islam şi practica obişnuită a musulmanilor</string>
+    <string name="title20">Nemusulmanii sunt consideraţi a fi necredincioși (kufar)</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">De ce în islam unui bărbat îi este permis să aibă mai multe soţii? Deci, de ce este poligamia permisă în islam??</string>
+    <string name="question2">Dacă unui bărbat îi este permis să aibă mai multe soţii, atunci de ce islamul îi interzice unei femei să aibă mai mulţi soţi?</string>
+    <string name="question3">De ce islamul înjoseşte femeile, ţinându-le în spatele vălului?</string>
+    <string name="question4">Cum este posibil ca islamul să fie numit religia păcii, din moment ce a fost răspândit prin sabie?</string>
+    <string name="question5">De ce cei mai mulţi dintre musulmani sunt fundamentaliști și teroriști?</string>
+    <string name="question6">Uciderea unui animal constituie o practică nemiloasă. Atunci, de ce musulmanii consumă alimente nevegetariene?</string>
+    <string name="question7">De ce musulmanii sacrifică animalele fără milă, chinuindu-le și ucigându-le încet și dureros?</string>
+    <string name="question8">Ştiinţa ne spune că ceea ce mâncăm influenţează comportamentul nostru. Atunci, de ce islamul le permite musulmanilor să consume alimente de origine animală din moment ce consumul acestora ar putea face ca o persoană să fie violentă și sălbatică?</string>
+    <string name="question9">Din moment ce islamul este împotriva idolatriei, de ce musulmanii adoră și se prosternează în faţa sanctuarului Kaʻbah în timpul rugăciunii?</string>
+    <string name="question10">De ce nemusulmanilor nu le este permis accesul în orașele sfinte Mecca și Medina?</string>
+    <string name="question11">De ce consumul cărnii de porc este interzis în islam?</string>
+    <string name="question12">De ce consumul de alcool este interzis în islam?</string>
+    <string name="question13">De ce mărturia a două femei este echivalentă cu cea a unui bărbat?</string>
+    <string name="question14">În baza Legislaţiei islamice, de ce partea de moștenire a femeii este doar jumătate faţă de cea a unui bărbat?</string>
+    <string name="question15">Este Coranul cuvântul lui Dumnezeu؟</string>
+    <string name="question16">Cum puteţi dovedi existenţa Vieţii de Apoi, adică a vieţii de după moarte?</string>
+    <string name="question17">Din moment ce toţi musulmanii urmează același Coran, de ce există atunci atât de multe secte și diferite școli de jurisprudenţă printre musulmani?</string>
+    <string name="question18">Toate religiile îi învaţă pe adepţii lor să facă fapte bune. De ce trebuie cineva să urmeze doar islamul? Nu poate să urmeze oricare altă religie?</string>
+    <string name="question19">Dacă islamul este cea mai bună religie, atunci de ce unii dintre musulmani sunt incorecţi, nedemni de încredere și implicaţi în anumite activităţi precum înșelătorii, mită, trafic de droguri şi altele?</string>
+    <string name="question20">De ce musulmanii îi jignesc pe nemusulmani, numindu-i necredincioși (kufar)?</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exist">Szeretné, hogy ki az alkalmazást?</string>
+    <string name="exis">kijárat</string>
+
+
+    <string name="athor_name"> Zakir Naik</string>
+    <string name="description_author"> Zakir Naik 1965-ben született Mumbaiban, Indiában.
+        Az Iszlám Kutatási Alapítvány elnöke és az IRF Oktatási Trust elnöke Mumbaiban.
+        A Mumbai Egyetemen végzett, ahol orvosi és sebészi diplomát szerzett. Érdeklik az
+        iszlám és az összehasonlító vallás, az orvostudomány, valamint a társadalmi
+        és gazdasági jóléti kampányok. Nemzetközileg elismert da\'iyah (hívó Allahnak, Teremtő Istennek)
+        , és utazott Kanadába, az Egyesült Államokba, Ausztráliába, Új-Zélandba, Malajziába, Szingapúrba
+        , számos öböl államba és más országba. Több könyvet is írt az iszlámról, a tudományról és az
+        összehasonlító vallásról, és számos más, az iszlám iránt érdeklődő nem-muszlim könyvet készít. </string>
+    <!-- menu items-->
+    <string name="lang">Válasszon nyelvet</string>
+    <string name="share">Ossza meg</string>
+    <string name="like">App értékelése</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">A szerzőről</string>
+    <string name="send">Javaslat küldése</string>
+    <!-- language-->
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الفرنسية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+    <!-- -->
+    <string name="app_name">Válaszok a nem-muszlimok gyakori kérdéseire</string>
+    <string name="title0">Bevezetés</string>
+    <string name="title1">Poligámia</string>
+    <string name="title2">Poliandria</string>
+    <string name="title3">Hidzáb a nők számára</string>
+    <string name="title4">Az iszlám karddal terjedt?</string>
+    <string name="title5">A muszlimok fundamentalisták és terrorosták</string>
+    <string name="title6">Nem-vegetáriánus ételek</string>
+    <string name="title7">Az iszlám szerinti állatvágás kegyetlenek tűnik</string>
+    <string name="title8">A nem-negetáriánus étrend a muszlimokat erőszakossá teszi</string>
+    <string name="title9">A muszlimok a Kábát imádják</string>
+    <string name="title10">A nem-muszlimok nem léphetnek be Mekkába</string>
+    <string name="title11">A sertés tiltott</string>
+    <string name="title12">Alkoholtilalom</string>
+    <string name="title13">Tanúk egyenlősége</string>
+    <string name="title14">Öröklés</string>
+    <string name="title15">A Korán az Isten szavát</string>
+    <string name="title16">Túlvilág - élet a halál után</string>
+    <string name="title17">A muszlimok miért oszlanak szektákra/külömböző jogi iskolákra?</string>
+    <string name="title18">Minden vallás azt tanítja az embereknek, hogy legyenek jók. Miért kellene akkor pont az iszlámot követni?</string>
+    <string name="title19">Hatalmas külömbség az iszlám és a muszlimok
+gyakorlata között</string>
+    <string name="title20">A nem-muszlimokra azt mondják: Káfir</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Miért megengedett a férfinak, hogy több mint egy felesége legyen? Miért megengedett a poligámia az iszlámban?</string>
+    <string name="question2">Ha az iszlám megengedi a férfinak, hogy több felesége legyen, miért nem engedi meg a nőnek, hogy több férje legyen?</string>
+    <string name="question3">Az iszlám miért alacsonyítja le a nőket azzal, hogy fátyol mögé kényszeríti őket?</string>
+    <string name="question4">Hogyan hívhatják az iszlámot a béke vallásának, ha karddal terjesztették?</string>
+    <string name="question5">Miért fundamentalista és terrorista a legtöbb muszlim?</string>
+    <string name="question6">Egy állat megölése kegyetlen dolog. Miért esznek akkor a muszlimok nem-vegetáriánus ételeket?</string>
+    <string name="question7">Miért vágják a muszlimok az állatokat olyan kegyetlen módon, hogy kínozzák, majd lassan, fájdalmasan megölik őket?</string>
+    <string name="question8">A tudomány szerint, amit az ember eszik, az hatással van a viselkedésére. Akkor miért engedi meg az iszlám a muszlimoknak, hogy nem-vegetáriánus ételt egyenek, ha az állatok megevése az embert erőszakossá és kegyetlenné teheti?</string>
+    <string name="question9">Ha az iszlám ellenez mindenfajta bálványimádást, akkor a muszlimok miért imádják, miért borulnak le a Kábához imájukban?</string>
+    <string name="question10">Miért nem léphetnek be nem-muszlimok Mekka és Medina szent városaiba?</string>
+    <string name="question11">Miért tilos a sertéshús fogyasztása az iszlámban?</string>
+    <string name="question12">Miért tilos az alkoholfogyasztás az iszlámban?</string>
+    <string name="question13">Miért van az, hogy két nő tanúskodása ér annyit, mint egy férfié?</string>
+    <string name="question14">Az iszlám törvény szerint a nő része miért a férfi által örökölt vagyonrésznek csak a fele?</string>
+    <string name="question15">A Korán az Isten szavát</string>
+    <string name="question16">Túlvilág - élet a halál után</string>
+    <string name="question17">Ha minden muszlim egy és ugyanazt a Koránt követi, akkor miért van annyi szekta és gondolkodási iskola a muszlimok között?</string>
+    <string name="question18">Minden vallás lényegében azt tanítja követőinek, hogy jótetteket cselekedjen. Miért kellene akkor valakinek az iszlámot követnie? Nem követheti bármelyik másik vallást helyette?</string>
+    <string name="question19">Ha az iszlám a legjobb vallás, miért van annyi muszlim, aki hazudik, megbízhatatlan, vagy olyan dolgokban vesz részt, mind csalás, megvesztegetés, drogkereskedelem, stb.?</string>
+    <string name="question20">A muszlimok miért sértegetik a nem-muszlimokat azzal, hogy káfirnak nevezik őket?</string>
+</resources>

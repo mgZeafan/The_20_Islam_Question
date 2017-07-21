@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- menu items-->
+
+    <string name="lang">Zgjidh gjuhen</string>
+    <string name="share">pjesë</string>
+    <string name="like">Vlerësimi i aplikacionit</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">Rreth Autorit</string>
+    <string name="send">Dërgo propozim</string>
+
+    <string name="exist">A doni të merrni nga e aplikimit?</string>
+    <string name="exis">dalje</string>
+    <string name="athor_name">DR / Zakir Naik</string>
+    <string name="description_author">  DR / Zakir Naik ka lindur në Mumbai të Indisë në vitin 1965.
+        Ai është President i Fondacionit për Hulumtime Islame dhe Kryetar i Trustit Arsimor IRF në
+        Mumbai. Ai u diplomua në Universitetin e Mumbai, ku mori diploma në mjekësi dhe kirurgji. Ai
+        është i interesuar për Islamin dhe fenë krahasuese, mjekësinë, dhe fushatat sociale dhe
+        ekonomike të mirëqenies. Ai është një Da\'iyah i njohur ndërkombëtarisht
+        (thirrësi i Allahut, Zoti Krijues) dhe ka udhëtuar në Kanada, Shtetet e Bashkuara, Australi,
+        Zelandën e Re, Malajzi, Singapor, disa shtete të Gjirit dhe vende të tjera anembanë botës.
+        Ai ka shkruar disa libra mbi islamin, shkencën dhe religjionin krahasues dhe është në procesin
+        e krijimit të shumë librave të tjerë për jomuslimanët që janë të interesuar për Islamin.</string>
+    <!-- language-->
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الفرنسية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+    <!-- -->
+    <string name="app_name">Pyetjet më të shpeshta rreth Islamit</string>
+    <string name="title0">PARATHËNIE</string>
+    <string name="title1">POLIGAMIA</string>
+    <string name="title2">POLIANDRIA</string>
+    <string name="title3">MBULESA (HIXHABI) PËR GRUAN</string>
+    <string name="title4">A ËSHTË PËRHAPUR ISLAMI
+PËRMES SHPATËS (FORCËS)?</string>
+    <string name="title5">MUSLIMANËT JANË TERRORISTË
+DHE FUNDAMENTALISTË</string>
+    <string name="title6">USHQIMI JOVEGJETATIV</string>
+    <string name="title7">MËNYRA ISLAME E THERJES SË KAFSHËVE DUKET SI E PAMËSHIRSHME</string>
+    <string name="title8">USHQIMI JOVEGJETATIV I BËNË
+MUSLIMANËT AGRESIVË</string>
+    <string name="title9">MUSLIMANËT ADHUROJNË QABEN</string>
+    <string name="title10">JOMUSLIMANËVE U NDALOHET
+HYRJA NË MEKË</string>
+    <string name="title11">MISHI I DERRIT I NDALUAR</string>
+    <string name="title12">NDALIMI I PIJEVE ALKOOLIKE</string>
+    <string name="title13">BARAZIA E DËSHMITARËVE</string>
+    <string name="title14">TRASHËGIMIA</string>
+    <string name="title15">A është Kurani fjala e Perëndisë</string>
+    <string name="title16">JETA E AMSHUESHME - JETA PAS
+VDEKJES</string>
+    <string name="title17">PËRSE MUSLIMANËT JANË TË
+NDARË NË GRUPE/NË SHKOLLA TË
+NDRYSHME JURIDIKE?</string>
+    <string name="title18">TË GJITHA RELIGJIONET NA
+MËSOJNË TË JEMI TË DREJTË,
+ATËHERË PËRSE DUHET TË PASOHET
+VETËM FEJA ISLAME?</string>
+    <string name="title19">KA NDRYSHIM TË MADH
+NDËRMJET ISLAMIT DHE ZBATIMIT
+AKTUAL TË TIJ NGA MUSLIMANËT</string>
+    <string name="title20">JOMUSLIMANËT TË
+ASHTUQUAJTUR PABESIMTARË
+(KAFIRA)</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Përse mashkullit në fenë islame i lejohet që të martoj me
+shumë së një grua?</string>
+    <string name="question2">Pasi që mashkulli e ka të lejuar të martoj më shumë se një
+grua, atëherë përse Islami i ndalon gruas që ajo të ketë më shumë se
+një burrë?</string>
+    <string name="question3">Përse Islami degradon gruan duke e mbajtur atë nën
+mbulesë?</string>
+    <string name="question4">Si mund të konsiderohet Islami fe e paqes përderisa është
+përhapur përmes shpatës?</string>
+    <string name="question5">Përse shumica e muslimanëve janë fundamentalistë dhe
+terroristë?</string>
+    <string name="question6">Vrasja e kafshës është një akt dhe vepër e pamëshirshme.
+Atëherë përse muslimanët konsumojnë ushqim jo-vegjetativ?</string>
+    <string name="question7">Pse muslimanët gjatë therjes së kafshëve sillen të pamëshirshëm
+    duke i torturuar ato me prerje të ngadaltë dhe mbytje të
+    dhimbshme?</string>
+    <string name="question8">Shkenca na mëson se me çfarëdo gjëje që të ushqehet njeriu
+ajo do të ketë ndikim në sjelljet e tij. Atëherë përse Islami i lejon muslimanët
+që të konsumojnë ushqim jo-vegjetativ pasi ngrënia e kafshëve
+mund ta bëjë njeriun agresiv, mizor dhe të egër?</string>
+    <string name="question9">Meqë Islami është kundër adhurimit të idhujve, atëherë, përse
+muslimanët e adhurojnë Qabenë dhe në lutjet (namazet) e tyre ata i
+përkulen asaj?</string>
+    <string name="question10">Përse jomuslimanëve u ndalohet hyrja në dy vendet e Shenjta,
+në Mekë dhe Medinë?</string>
+    <string name="question11">Përse në Islam ndalohet ngrënia e mishit të derrit (thiut)?</string>
+    <string name="question12">Përse pirja e alkoolit është e ndaluar në Islam?</string>
+    <string name="question13">Përse dy dëshmitarë të gjinisë femërore janë të barasvlershëm
+vetëm me një dëshmitar të gjinisë mashkullore?</string>
+    <string name="question14">Përse në sheriatin islam ndarja e pasurisë së trashëguar është
+vetëm sa gjysma e pjesës - hises së mashkullit?</string>
+    <string name="question15">A është Kurani fjala e Perëndisë</string>
+    <string name="question16">Si mund të dëshmoni ekzistencën e botës së amshuar,
+d.m.th. të jetës pas vdekjes?</string>
+    <string name="question17">Meqë muslimanët pasojnë një Kuran, i cili është i njëjtë,
+atëherë përse brenda shoqërive të muslimanëve ekzistojnë një numër i
+madh sektesh dhe shkolla të ndryshme juridike?</string>
+    <string name="question18">Parimisht, të gjitha fetë dhe religjionet, pasuesit e tyre i mësojnë
+që të veprojnë vetëm vepra dhe punë të mira. Atëherë përse duhet
+që njeriu të ndjekë vetëm Islamin? A nuk ka mundësi që ai të ndjekë
+një nga fetë e tjera?</string>
+    <string name="question19">Nëse Islami është feja më e mirë atëherë përse shumë muslimanë
+nuk janë të sinqertë, të besueshëm dhe janë të përfshirë në
+dukuri negative, si tradhti, mashtrime, ryshfet dhe kontrabandë me
+drogë, etj?</string>
+    <string name="question20">Përse muslimanët abuzojnë me jomuslimanët duke i konsideruar
+ata si pabesimtarë (kafira)?</string>
+</resources>

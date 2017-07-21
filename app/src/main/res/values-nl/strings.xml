@@ -1,0 +1,91 @@
+<resources>
+    <!-- menu items-->
+    <string name="athor_name">DR / Zakir Naik</string>
+    <string name="description_author">DR / Zakir Naik is geboren in Mumbai,
+        India, in 1965. Hij is voorzitter van de Stichting Islamitische Onderzoek
+        en voorzitter van het IRF Educational Trust in Mumbai. Hij studeerde af aan de
+        Universiteit van Mumbai, waar hij diploma\'s behaalde in de geneeskunde en
+        de operatie. Hij is geïnteresseerd in de islam en vergelijkende religie,
+        geneeskunde en sociale en economische welvaartscampagnes. Hij is een internationaal
+        beroemde Da\'iyah (Beller aan Allah, God de Schepper) en reist naar Canada, de Verenigde
+        Staten, Australië, Nieuw Zeeland, Maleisië, Singapore, verschillende Golfstaten en andere
+        landen over de hele wereld. Hij heeft verschillende boeken geschreven over de islam,
+        wetenschap en vergelijkende religie en is in het proces van het schrijven van veel
+        andere boeken voor niet-moslims die geïnteresseerd zijn in de islam.  </string>
+    <string name="exist">Wilt u uit de toepassing te krijgen?</string>
+    <string name="exis">Uitgang</string>
+
+
+    <string name="lang">Taal</string>
+    <string name="share">delen</string>
+    <string name="like">App evaluatie</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="Author">Over auteur</string>
+    <string name="send">Stuur suggestie</string>
+
+    <!-- language-->
+
+    <!-- language-->
+
+    <string name="lang_1">English</string>
+    <string name="lang_2">русский</string><!--اللغة الروسية -->
+    <string name="lang_3">भारतीय</string><!--اللغة الهندية -->
+    <string name="lang_4">Deutsch</string><!--اللغة الفرنسية -->
+    <string name="lang_5">français</string><!--اللغة الفرنسية -->
+    <string name="lang_6">Nederlands</string><!--اللغة الهولندية -->
+    <string name="lang_7">Հայերեն</string><!--اللغة الأرميني -->
+    <string name="lang_8">Українська</string><!--اللغة الأكرونية -->
+    <string name="lang_9"> Română</string><!--اللغة الرومنية -->
+    <string name="lang_10">Gjuha shqipe</string><!--اللغة الألبانية -->
+    <string name="lang_11"> norsk språk</string><!--اللغة النرويجية -->
+    <string name="lang_12"> magyar</string><!--اللغة الهنغارية -->
+    <string name="lang_13"> Ελληνικά</string><!--اللغة اليونانية -->
+
+    <!-- -->
+    <!-- -->
+    <string name="app_name">de meest gestelde vragen over Islam</string>
+    <string name="title0">INLEIDING</string>
+    <string name="title1">Polygamie</string>
+    <string name="title2">Polyandrie</string>
+    <string name="title3">De hijaab – de sluier voor vrouwen</string>
+    <string name="title4">Is Islam verspreid door middel van het zwaard?</string>
+    <string name="title5">Moslims zijn fundamentalisten en terroristen</string>
+    <string name="title6">Eten van niet-vegetarisch voedsel</string>
+    <string name="title7">Islamitische methode van het slachten van dieren lijkt gewelddadig</string>
+    <string name="title8">Niet-vegetarisch voedsel maakt Moslims geweldadig</string>
+    <string name="title9">Moslims aanbidden de Kaaba</string>
+    <string name="title10">NIET-MOSLIMS WORDEN NIET TOEGELATEN IN MEKKA</string>
+    <string name="title11">VARKENSVLEES VERBODEN</string>
+    <string name="title12">HET VERBOD OP ALCOHOL</string>
+    <string name="title13">GELIJKHEID VAN GETUIGEN</string>
+    <string name="title14">ERFENIS</string>
+    <string name="title15">Is Al-Qur’an Gods Woord?</string>
+    <string name="title16">HET HIERNAMAALS - LEVEN NA DE DOOD?</string>
+    <string name="title17">WAAROM ZIJN DE MOSLIMS VERDEELD IN SEKTES / VERSCHILLENDE RICHTINGEN</string>
+    <string name="title18">ALLE RELIGIES LEREN DE MENS OM GOED TE ZIJN EN GOED TE DOEN, WAAROM ZOU JE ALLEEN ISLAM MOETEN VOLGEN</string>
+    <string name="title19">Er is een groot verschil tussen Islam en het in de praktijk ervan brengen door moslims</string>
+    <string name="title20">ER WORDT NAAR NIET-MOSLIMS GEREFEREERD ALS KAFIRS</string>
+    <!--      ////////////////////questions////////////////////////                   -->
+    <string name="question0"> </string>
+    <string name="question1">Waarom is het voor een man toegestaan om meer dan één vrouw te hebben in Islam? M.a.w. waarom is polygamie toegestaan?</string>
+    <string name="question2">Als het voor de man toegestaan is om meer dan één vrouw te trouwen, waarom is het dan voor een vrouw niet toegestaan om meerdere mannen te trouwen?</string>
+    <string name="question3">Waarom verlaagt Islam de vrouw door het dragen van de sluier?</string>
+    <string name="question4">Hoe kan Islam de religie van vrede worden genoemd terwijl deze is verspreid door het zwaard?</string>
+    <string name="question5">Waarom zijn de meeste Moslims fundamentalist en terrorist?</string>
+    <string name="question6">Het doden van een dier is een wrede actie. Waarom consumeren Moslims dan toch niet-vegetarisch voedsel?</string>
+    <string name="question7">Waarom slachten de Moslims de dieren op een gewelddadige manier door hen te mishandelen en langzaam en pijnvol te laten sterven?</string>
+    <string name="question8">De wetenschap vertelt ons dat wat we eten effect heeft op ons gedrag. Waarom staat Islam dan de Moslims toe om niet-vegetarisch voedsel te eten, terwijl het eten van dieren een persoon gewelddadig en wild kan maken?</string>
+    <string name="question9">Als Islam tegen het aanbidden van een afgod (beelden) is, waarom aanbidden en buigen de Moslims dan voor de Kaaba in hun gebed?</string>
+    <string name="question10">Waarom worden Niet-Moslims niet binnengelaten in de heilige steden Mekka en Medinah?</string>
+    <string name="question11">Waarom is het eten van varkensvlees verboden in Islam?</string>
+    <string name="question12">Waarom is de consumptie van alcohol verboden in Islam?</string>
+    <string name="question13">Waarom staan twee vrouwelijke getuigen gelijk aan één mannelijke getuige?</string>
+    <string name="question14">Waarom is het deel van de erfenis van de vrouw onder Islamitische Wet maar de helft van de erfenis van de man?</string>
+    <string name="question15">Hoe kan worden bewezen dat Al-Qur’an het woord van God is?</string>
+    <string name="question16">Hoe kan je het bestaan van het hiernamaals, het leven na de dood, bewijzen?</string>
+    <string name="question17">Als alle Moslims één en dezelfde Al-Qur\'an volgen, waarom zijn er dan zoveel verschillende sektes en verschillende scholen/richtingen onder de Moslims?</string>
+    <string name="question18">Over het algemeen leren alle religies hun volgelingen om goede daden te verrichten. Waarom zou een persoon alleen Islam volgen? Kan hij niet gewoon één van de religies volgen?</string>
+    <string name="question19">Als Islam de beste religie is, waarom zijn er dan zoveel van de Moslims oneerlijk, onbetrouwbaar en houden ze zich bezig met zaken als uitgaan (bars en discotheken), stelen, het dealen in drugs, etc.?</string>
+    <string name="question20">Waarom schelden Moslims de Niet-Moslims uit door ze \'Kafirs\' te noemen?</string>
+</resources>
